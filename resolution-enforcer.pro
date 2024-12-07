@@ -1,4 +1,3 @@
-qmake
 QT += core gui widgets
 TARGET = ResolutionEnforcer
 TEMPLATE = app
